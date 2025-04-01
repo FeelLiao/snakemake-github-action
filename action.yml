@@ -1,4 +1,4 @@
-name: snakemake
+name: snakemake-conda-flexible
 
 description: Run Snakemake on the repository
 
